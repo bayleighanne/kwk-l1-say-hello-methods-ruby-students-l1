@@ -9,3 +9,5 @@ def wake_up
  puts "change my clothes"
  puts "moisturize"
 end
+
+wake_up
