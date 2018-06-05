@@ -3,4 +3,4 @@ puts "#{local_greeting} #{your_name}, #{your_name}, I am #{my name}, how's yours
 
 end
 
-greeting
+greeting("hey", "esmy", "Bayleigh", "morning")
